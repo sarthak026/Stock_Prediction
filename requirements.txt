@@ -1,1 +1,15 @@
+#Install only the required packages
 
+data_collection.py: 
+data_preparation.py
+data_preprocessing.py
+lstm_model.py
+train_model.py
+hyperparameters.yaml
+evaluate_model.py
+refinement.py
+README.md
+model_documentation.md
+.gitignore
+requirements.txt.
+LICENSE: License file for the project.
